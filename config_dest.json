@@ -1,0 +1,14 @@
+{
+    "database": "mongodb://localhost:27017/amusement2",
+    "aws": {
+        "endpoint": "",
+        "bucket": "",
+        "s3accessKeyId": "",
+        "s3secretAccessKey": "",
+        "cardroot": "cards/"
+    },
+    "data": {
+        "cards": "./data/cards",
+        "collections": "./data/collections"
+    }
+}

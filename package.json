@@ -1,0 +1,16 @@
+{
+  "name": "amusement-meta",
+  "version": "0.1.0",
+  "description": "Metadata scanner",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon test/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "noxcaos",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.989.0",
+    "mongodb": "^4.1.2"
+  }
+}
